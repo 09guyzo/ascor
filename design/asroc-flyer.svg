@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="1584" viewBox="0 0 1120 1584" role="img" aria-labelledby="title desc">
+<title id="title">Flyer de l’Association des raffineurs des oléagineux du Cameroun</title>
+<desc id="desc">Présentation de l’ASROC, de son rôle et des acteurs de la filière oléagineuse camerounaise, illustrée de photographies du Cameroun.</desc>
+<defs>
+  <clipPath id="photo1"><rect x="58" y="598" width="238" height="160" rx="9"/></clipPath>
+  <clipPath id="photo2"><rect x="330" y="598" width="238" height="160" rx="9"/></clipPath>
+  <clipPath id="photo3"><rect x="602" y="598" width="238" height="160" rx="9"/></clipPath>
+  <clipPath id="photo4"><rect x="874" y="598" width="188" height="160" rx="9"/></clipPath>
+  <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102c20"/><stop offset="1" stop-color="#06140e"/></linearGradient>
+  <linearGradient id="shade" x1="0" x2="0" y1="0" y2="1"><stop offset=".45" stop-color="#06140e" stop-opacity="0"/><stop offset="1" stop-color="#06140e" stop-opacity=".8"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5ff66" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1120" height="1584" fill="#f3f0e6"/>
+<!-- header -->
+<rect width="1120" height="460" fill="url(#hero)"/>
+<rect width="1120" height="460" fill="url(#grid)"/>
+<rect x="0" y="0" width="16" height="460" fill="#168b4f"/>
+<rect x="16" y="0" width="7" height="460" fill="#d93836"/>
+<rect x="23" y="0" width="7" height="460" fill="#f5c94b"/>
+<text x="62" y="70" fill="#b5ff66" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="4">ASROC</text>
+<text x="62" y="101" fill="#d8e4d9" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.6">ASSOCIATION DES RAFFINEURS DES OLÉAGINEUX DU CAMEROUN</text>
+<line x1="62" y1="130" x2="1058" y2="130" stroke="#a8d9b5" stroke-opacity=".25"/>
+<text x="62" y="180" fill="#70e9b9" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">UNE FILIÈRE · DES ACTEURS · UNE VOIX COMMUNE</text>
+<text x="62" y="245" fill="#f6f6ed" font-family="Georgia,serif" font-size="53" font-weight="400">Au cœur de la filière</text>
+<text x="62" y="307" fill="#b5ff66" font-family="Georgia,serif" font-size="53" font-weight="400">oléagineuse camerounaise.</text>
+<text x="62" y="357" fill="#d1ddd2" font-family="Arial,sans-serif" font-size="17">De la production des graines à la mise en marché des huiles,</text>
+<text x="62" y="385" fill="#d1ddd2" font-family="Arial,sans-serif" font-size="17">l’ASROC rassemble les raffineurs et fait avancer le dialogue.</text>
+<rect x="62" y="414" width="315" height="2" fill="#b5ff66"/>
+<circle cx="396" cy="415" r="4" fill="#b5ff66"/>
+<!-- intro -->
+<text x="58" y="520" fill="#183a2a" font-family="Georgia,serif" font-size="32">Une chaîne de valeur, plusieurs maillons</text>
+<text x="58" y="550" fill="#667368" font-family="Arial,sans-serif" font-size="14">Chaque acteur contribue à transformer les ressources oléagineuses en produits utiles au quotidien.</text>
+<!-- photo cards -->
+<g>
+ <rect x="48" y="582" width="260" height="326" rx="13" fill="#fffdf6"/>
+ <image x="58" y="598" width="238" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo1)" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/La_palmeraie_de_Ndanga_village.jpg/960px-La_palmeraie_de_Ndanga_village.jpg"/>
+ <rect x="58" y="598" width="238" height="160" rx="9" fill="url(#shade)"/>
+ <rect x="70" y="613" width="37" height="25" rx="12" fill="#b5ff66"/><text x="88" y="631" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">01</text>
+ <text x="64" y="793" fill="#1b3929" font-family="Georgia,serif" font-size="21">Producteurs</text>
+ <text x="64" y="823" fill="#607064" font-family="Arial,sans-serif" font-size="13">Palmier à huile, coton,</text><text x="64" y="844" fill="#607064" font-family="Arial,sans-serif" font-size="13">soja et arachide.</text>
+ <text x="64" y="884" fill="#398253" font-family="Arial,sans-serif" font-size="10">PRODUIRE · RÉCOLTER · COLLECTER</text>
+</g>
+<path d="M312 738h12" stroke="#b39042" stroke-width="2"/><path d="M319 733l6 5-6 5" fill="none" stroke="#b39042" stroke-width="2"/>
+<g>
+ <rect x="320" y="582" width="260" height="326" rx="13" fill="#fffdf6"/>
+ <image x="330" y="598" width="238" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo2)" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pressoir_huile_de_palme-Tayap.jpg/960px-Pressoir_huile_de_palme-Tayap.jpg"/>
+ <rect x="330" y="598" width="238" height="160" rx="9" fill="url(#shade)"/>
+ <rect x="342" y="613" width="37" height="25" rx="12" fill="#b5ff66"/><text x="360" y="631" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">02</text>
+ <text x="336" y="793" fill="#1b3929" font-family="Georgia,serif" font-size="21">Première transformation</text>
+ <text x="336" y="823" fill="#607064" font-family="Arial,sans-serif" font-size="13">Huileries et unités d’extraction</text><text x="336" y="844" fill="#607064" font-family="Arial,sans-serif" font-size="13">produisent les huiles brutes.</text>
+ <text x="336" y="884" fill="#398253" font-family="Arial,sans-serif" font-size="10">EXTRAIRE · TRANSFORMER</text>
+</g>
+<path d="M584 738h12" stroke="#b39042" stroke-width="2"/><path d="M591 733l6 5-6 5" fill="none" stroke="#b39042" stroke-width="2"/>
+<g>
+ <rect x="592" y="582" width="260" height="326" rx="13" fill="#fffdf6" stroke="#398253" stroke-width="2"/>
+ <image x="602" y="598" width="238" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo3)" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Atelier_int%C3%A9gr%C3%A9_de_fabrication%2C_d%E2%80%99embouteillage_et_d%E2%80%99emballage_%E2%80%93_SODECOTON.jpg/960px-Atelier_int%C3%A9gr%C3%A9_de_fabrication%2C_d%E2%80%99embouteillage_et_d%E2%80%99emballage_%E2%80%93_SODECOTON.jpg"/>
+ <rect x="602" y="598" width="238" height="160" rx="9" fill="url(#shade)"/>
+ <rect x="614" y="613" width="37" height="25" rx="12" fill="#b5ff66"/><text x="632" y="631" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">03</text>
+ <text x="608" y="793" fill="#1b3929" font-family="Georgia,serif" font-size="21">Raffineurs · ASROC</text>
+ <text x="608" y="823" fill="#607064" font-family="Arial,sans-serif" font-size="13">Le raffinage valorise les huiles</text><text x="608" y="844" fill="#607064" font-family="Arial,sans-serif" font-size="13">et porte le savoir-faire local.</text>
+ <text x="608" y="884" fill="#398253" font-family="Arial,sans-serif" font-size="10">RAFFINER · REPRÉSENTER</text>
+</g>
+<path d="M856 738h12" stroke="#b39042" stroke-width="2"/><path d="M863 733l6 5-6 5" fill="none" stroke="#b39042" stroke-width="2"/>
+<g>
+ <rect x="864" y="582" width="204" height="326" rx="13" fill="#fffdf6"/>
+ <image x="874" y="598" width="188" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo4)" href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Woman_selling_refined_palm_oil.jpg/960px-Woman_selling_refined_palm_oil.jpg"/>
+ <rect x="874" y="598" width="188" height="160" rx="9" fill="url(#shade)"/>
+ <rect x="886" y="613" width="37" height="25" rx="12" fill="#b5ff66"/><text x="904" y="631" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">04</text>
+ <text x="880" y="793" fill="#1b3929" font-family="Georgia,serif" font-size="21">Marchés</text>
+ <text x="880" y="823" fill="#607064" font-family="Arial,sans-serif" font-size="13">Distributeurs, industries</text><text x="880" y="844" fill="#607064" font-family="Arial,sans-serif" font-size="13">clientes et consommateurs.</text>
+ <text x="880" y="884" fill="#398253" font-family="Arial,sans-serif" font-size="10">DISTRIBUER · CONSOMMER</text>
+</g>
+<!-- association role -->
+<rect x="48" y="950" width="1024" height="355" rx="18" fill="#10291d"/>
+<rect x="48" y="950" width="8" height="355" rx="4" fill="#b5ff66"/>
+<text x="82" y="1006" fill="#70e9b9" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">LE RÔLE DE L’ASROC</text>
+<text x="82" y="1052" fill="#f6f6ed" font-family="Georgia,serif" font-size="34">Rassembler les raffineurs. Faire progresser la filière.</text>
+<text x="82" y="1084" fill="#c6d4c8" font-family="Arial,sans-serif" font-size="14">L’association porte les intérêts communs de ses membres et facilite le dialogue entre les maillons.</text>
+<line x1="82" y1="1110" x2="1038" y2="1110" stroke="#d0e3d2" stroke-opacity=".2"/>
+<circle cx="94" cy="1163" r="13" fill="#b5ff66"/><text x="94" y="1168" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">1</text>
+<text x="120" y="1168" fill="#f3f7ef" font-family="Arial,sans-serif" font-size="17" font-weight="700">Représenter les raffineurs</text>
+<text x="120" y="1194" fill="#b5c6b8" font-family="Arial,sans-serif" font-size="13">Défendre leurs enjeux communs dans le respect de l’intérêt général.</text>
+<circle cx="94" cy="1230" r="13" fill="#b5ff66"/><text x="94" y="1235" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">2</text>
+<text x="120" y="1235" fill="#f3f7ef" font-family="Arial,sans-serif" font-size="17" font-weight="700">Créer le dialogue entre les acteurs</text>
+<text x="120" y="1261" fill="#b5c6b8" font-family="Arial,sans-serif" font-size="13">Relier producteurs, transformateurs, institutions et marchés.</text>
+<circle cx="94" cy="1290" r="13" fill="#b5ff66"/><text x="94" y="1295" text-anchor="middle" fill="#173622" font-family="Arial,sans-serif" font-size="12" font-weight="700">3</text>
+<text x="120" y="1295" fill="#f3f7ef" font-family="Arial,sans-serif" font-size="17" font-weight="700">Valoriser la qualité et la transformation locale</text>
+<!-- partners strip -->
+<text x="58" y="1360" fill="#183a2a" font-family="Georgia,serif" font-size="25">Une dynamique collective</text>
+<text x="58" y="1394" fill="#607064" font-family="Arial,sans-serif" font-size="13">Pouvoirs publics · Normalisation · Transport · Fournisseurs · Industries clientes · Distributeurs · Ménages</text>
+<rect x="58" y="1424" width="1004" height="1" fill="#b6c0b2"/>
+<text x="58" y="1464" fill="#183a2a" font-family="Arial,sans-serif" font-size="16" font-weight="700">De la graine au produit fini : construisons la valeur au Cameroun.</text>
+<text x="58" y="1493" fill="#617064" font-family="Arial,sans-serif" font-size="12">Contact / adhésion : à compléter par l’association</text>
+<!-- photo credits -->
+<text x="58" y="1530" fill="#667368" font-family="Arial,sans-serif" font-size="9">Photos : Simbanematick, Eric Freyssinge et Minette Lontsie (CC BY-SA 4.0) · Ns Digital Services (CC0 1.0).</text>
+<text x="58" y="1547" fill="#667368" font-family="Arial,sans-serif" font-size="9">Les images illustrent des activités au Cameroun ; elles ne représentent pas nécessairement les membres de l’ASROC.</text>
+<text x="1062" y="1547" text-anchor="end" fill="#368151" font-family="Arial,sans-serif" font-size="10" font-weight="700">ASROC · CAMEROUN</text>
+</svg>
