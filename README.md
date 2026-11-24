@@ -11,6 +11,7 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 ## Fichiers
 
 - `index.html` : page d’accueil prête à déployer.
+- `association.html` : présentation de l’association, de ses objectifs, de son histoire et de son rôle dans la filière.
 - `contact.html` : page contact et formulaire avec champ entreprise conditionnel.
 - `adherer.html` : formulaire de demande d’adhésion avec pièces jointes.
 - `assets/` : fichiers logo fournis séparément.
