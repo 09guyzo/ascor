@@ -11,6 +11,9 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 ## Fichiers
 
 - `index.html` : page d’accueil prête à déployer.
+- `contact.html` : page contact et formulaire avec champ entreprise conditionnel.
 - `assets/` : fichiers logo fournis séparément.
 - `design/asroc-flyer.svg` : visuel flyer.
 - `source/` : maquette HTML complète et prototype du slider.
+
+Le formulaire envoie les messages à `asroc.cm@gmail.com` via FormSubmit. Le destinataire doit confirmer l’activation de la première soumission reçue par e-mail.
