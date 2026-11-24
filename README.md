@@ -12,8 +12,11 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 
 - `index.html` : page d’accueil prête à déployer.
 - `contact.html` : page contact et formulaire avec champ entreprise conditionnel.
+- `adherer.html` : formulaire de demande d’adhésion avec pièces jointes.
 - `assets/` : fichiers logo fournis séparément.
 - `design/asroc-flyer.svg` : visuel flyer.
 - `source/` : maquette HTML complète et prototype du slider.
 
 Le formulaire envoie les messages à `support@asroc-cm.org` via FormSubmit. Le destinataire doit confirmer l’activation de la première soumission reçue par e-mail.
+
+Le formulaire d’adhésion transmet les dossiers à `support@asroc-cm.org` via FormSubmit. Les pièces jointes sont limitées à 10 Mo au total.
