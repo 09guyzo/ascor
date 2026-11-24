@@ -16,4 +16,4 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 - `design/asroc-flyer.svg` : visuel flyer.
 - `source/` : maquette HTML complète et prototype du slider.
 
-Le formulaire envoie les messages à `asroc.cm@gmail.com` via FormSubmit. Le destinataire doit confirmer l’activation de la première soumission reçue par e-mail.
+Le formulaire envoie les messages à `support@asroc-cm.org` via FormSubmit. Le destinataire doit confirmer l’activation de la première soumission reçue par e-mail.
