@@ -21,3 +21,6 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 Le formulaire envoie les messages à `support@asroc-cm.org` via FormSubmit. Le destinataire doit confirmer l’activation de la première soumission reçue par e-mail.
 
 Le formulaire d’adhésion transmet les dossiers à `support@asroc-cm.org` via FormSubmit. Les pièces jointes sont limitées à 10 Mo au total.
+
+- `communication.html` : espace Communication avec communiqués, publications, agenda et médiathèque.
+- `navigation.css` : règle partagée de menu fixe à inclure sur les nouvelles pages avec `<link rel="stylesheet" href="/navigation.css">`.

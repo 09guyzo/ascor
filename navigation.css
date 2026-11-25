@@ -1,0 +1,4 @@
+/* Navigation ASROC partagée : inclure ce fichier dans toutes les pages HTML. */
+.site-header{position:sticky!important;top:0!important;z-index:100!important}
+#asroc-template-refined .ar-header{position:fixed!important;top:12px!important;z-index:100!important}
+@media(max-width:720px){#asroc-template-refined .ar-header{top:10px!important}}
