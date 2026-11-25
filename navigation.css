@@ -12,8 +12,9 @@
 }
 /* Match the homepage floating mobile header on every standalone page. */
 @media(max-width:720px){
- body:has(.site-header){padding-top:76px!important}
- .site-header{position:fixed!important;top:10px!important;left:16px!important;right:16px!important;width:auto!important;min-height:64px!important;height:64px!important;padding:0 12px!important;display:flex!important;justify-content:space-between!important;gap:10px!important;background:rgba(216,170,22,.66)!important;backdrop-filter:blur(14px)!important;-webkit-backdrop-filter:blur(14px)!important;border:1px solid rgba(255,236,169,.78)!important;border-radius:14px!important;box-shadow:0 8px 25px rgba(54,41,8,.2)!important}
+ body:has(.site-header){padding-top:0!important}
+ .site-header{position:fixed!important;top:0!important;left:0!important;right:0!important;width:100%!important;min-height:64px!important;height:64px!important;margin:0!important;padding:0 14px!important;display:flex!important;justify-content:space-between!important;gap:10px!important;background:rgba(216,170,22,.96)!important;backdrop-filter:blur(8px)!important;-webkit-backdrop-filter:blur(8px)!important;border:0!important;border-bottom:1px solid rgba(255,236,169,.78)!important;border-radius:0!important;box-shadow:none!important}
+ .site-header.is-scrolled{top:10px!important;left:16px!important;right:16px!important;width:auto!important;margin:0!important;padding:0 12px!important;background:rgba(216,170,22,.66)!important;backdrop-filter:blur(14px)!important;-webkit-backdrop-filter:blur(14px)!important;border:1px solid rgba(255,236,169,.78)!important;border-radius:14px!important;box-shadow:0 8px 25px rgba(54,41,8,.2)!important}
  .site-header .brand{flex:0 0 auto;min-width:0!important}.site-header .brand img{width:104px!important;height:60px!important;object-fit:contain}
  .site-header .mobile-menu-toggle{display:flex!important;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;padding:10px;border:1px solid #8e6c08;border-radius:10px;background:#f5e7b8;color:#493600;cursor:pointer;z-index:12}
  .site-header .mobile-menu-toggle span{display:block;width:22px;height:2px;border-radius:2px;background:#493600;transition:transform .2s,opacity .2s}
