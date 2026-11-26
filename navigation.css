@@ -26,3 +26,4 @@
  .site-header .main-nav a,.site-header .nav a{display:block!important;padding:12px 13px!important;border-radius:8px!important;color:#203b22!important;text-shadow:none!important;font-size:15px!important;background:transparent}
  .site-header .main-nav .nav-cta,.site-header .nav .nav-cta{display:block!important;text-align:center;margin-top:4px;background:#493600!important;color:#fff1be!important}
 }
+.asroc-language-toggle{border:1px solid #d8aa16;border-radius:999px;background:#fffaf0;color:#493600;padding:7px 12px;font:700 11px/1 system-ui,sans-serif;cursor:pointer;white-space:nowrap}.ar-nav .asroc-language-toggle{color:#493600;margin-left:4px}@media(max-width:720px){.site-header .asroc-language-toggle{display:block!important;text-align:center!important;background:#f6edcf!important;color:#493600!important;border:1px solid #d8aa16!important;margin:5px 0 0!important;padding:12px!important}}
