@@ -36,4 +36,5 @@
 .hero h1,.contact-hero h1{color:#fff!important}
 .hero p,.contact-hero p{color:#f4f1e8!important}
 .hero-image{opacity:.18}
+.ar-slide-bg[data-slide="2"] img{filter:brightness(1.38)}
 @media(max-width:720px){.hero,.contact-hero{background-position:center!important}.hero-image{opacity:.12}}
