@@ -1,4 +1,7 @@
 (function(){
+ var allHeaders=document.querySelectorAll('.site-header,#asroc-template-refined .ar-header');
+ function updateScrolled(){var active=window.scrollY>4;allHeaders.forEach(function(header){header.classList.toggle('is-scrolled',active)})}
+ updateScrolled();window.addEventListener('scroll',updateScrolled,{passive:true});
  document.querySelectorAll('.site-header').forEach(function(header,index){
   var nav=header.querySelector('.main-nav,.nav');if(!nav)return;
   var toggle=header.querySelector('.mobile-menu-toggle');
