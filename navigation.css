@@ -38,3 +38,28 @@
 .hero-image{opacity:.18}
 .ar-slide-bg[data-slide="2"] img{filter:brightness(1.38)}
 @media(max-width:720px){.hero,.contact-hero{background-position:center!important}.hero-image{opacity:.12}}
+/* Menu repliable aussi sur tablette (721–1100 px) : le menu compte 9 rubriques depuis la mise en conformité. */
+.mobile-menu-toggle{display:none}
+@media(min-width:721px) and (max-width:1100px){
+ .site-header{position:sticky!important}
+ .site-header .mobile-menu-toggle{display:flex!important;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;padding:10px;border:1px solid #8e6c08;border-radius:10px;background:#f5e7b8;color:#493600;cursor:pointer;z-index:12}
+ .site-header .mobile-menu-toggle span{display:block;width:22px;height:2px;border-radius:2px;background:#493600;transition:transform .2s,opacity .2s}
+ .site-header .mobile-menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(7px) rotate(45deg)}.site-header .mobile-menu-toggle[aria-expanded="true"] span:nth-child(2){opacity:0}.site-header .mobile-menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-7px) rotate(-45deg)}
+ .site-header .main-nav,.site-header .nav{display:none!important;position:absolute!important;top:calc(100% + 9px)!important;right:clamp(18px,6vw,84px)!important;left:auto!important;width:320px!important;padding:12px!important;margin:0!important;background:#fff!important;border:1px solid #d5ddc5!important;border-radius:14px!important;box-shadow:0 16px 40px #0003!important;align-items:stretch!important;gap:3px!important;flex-direction:column!important;z-index:60}
+ .site-header .main-nav.is-open,.site-header .nav.is-open{display:flex!important}
+ .site-header .main-nav a,.site-header .nav a{display:block!important;padding:11px 13px!important;border-radius:8px!important;color:#203b22!important;font-size:15px!important}
+ .site-header .main-nav .nav-cta,.site-header .nav .nav-cta{text-align:center;margin-top:4px;background:#493600!important;color:#fff1be!important}
+ #asroc-template-refined .ar-header{position:fixed!important}
+ #asroc-template-refined .ar-menu-toggle{display:flex!important;flex-direction:column;justify-content:center;gap:5px;width:44px;height:44px;padding:10px;border:1px solid #ffffff80;border-radius:10px;background:#ffffff12;cursor:pointer;z-index:8}
+ #asroc-template-refined .ar-header.is-scrolled .ar-menu-toggle{border-color:#8e6c08;background:#f5e7b8}
+ #asroc-template-refined .ar-menu-toggle span{display:block;width:22px;height:2px;border-radius:2px;background:#fff;transition:transform .2s,opacity .2s}
+ #asroc-template-refined .ar-header.is-scrolled .ar-menu-toggle span{background:#493600}
+ #asroc-template-refined .ar-menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(7px) rotate(45deg)}#asroc-template-refined .ar-menu-toggle[aria-expanded="true"] span:nth-child(2){opacity:0}#asroc-template-refined .ar-menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-7px) rotate(-45deg)}
+ #asroc-template-refined .ar-nav{display:none!important;position:absolute;top:calc(100% + 9px);right:0;left:auto;width:320px;padding:12px;background:#fff;text-shadow:none;border:1px solid #d5ddc5;border-radius:14px;box-shadow:0 16px 40px #0003;align-items:stretch;gap:3px}
+ #asroc-template-refined .ar-nav.is-open{display:flex!important;flex-direction:column}
+ #asroc-template-refined .ar-nav{height:auto!important;min-height:0!important;justify-content:flex-start!important;align-items:stretch!important;gap:3px!important}
+ #asroc-template-refined .ar-nav a{flex:0 0 auto!important;height:auto!important;min-height:0!important;line-height:1.3!important}#asroc-template-refined .ar-nav a:not(.ar-nav-cta){text-align:left!important}#asroc-template-refined .ar-nav .ar-nav-cta{text-align:center!important}
+ #asroc-template-refined .ar-nav .asroc-language-toggle{align-self:stretch}
+ #asroc-template-refined .ar-nav a:not(.ar-nav-cta){display:block;padding:11px 13px;border-radius:8px;color:#203b22!important;text-shadow:none;font-size:15px}
+ #asroc-template-refined .ar-nav .ar-nav-cta{display:block;text-align:center;margin-top:4px;padding:12px!important}
+}

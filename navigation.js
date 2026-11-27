@@ -9,6 +9,6 @@
   if(!nav.id)nav.id='asroc-mobile-nav-'+index;toggle.setAttribute('aria-controls',nav.id);
   function close(){toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Ouvrir le menu');nav.classList.remove('is-open')}
   toggle.addEventListener('click',function(){var open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Fermer le menu':'Ouvrir le menu');nav.classList.toggle('is-open',open)});
-  nav.querySelectorAll('a').forEach(function(link){link.addEventListener('click',close)});document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});window.addEventListener('resize',function(){if(innerWidth>720)close()});
+  nav.querySelectorAll('a').forEach(function(link){link.addEventListener('click',close)});document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});window.addEventListener('resize',function(){if(innerWidth>1100)close()});
  });
 })();

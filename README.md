@@ -14,6 +14,11 @@ Pour déployer : importer le dépôt GitHub `09guyzo/ascor` dans Vercel, garder 
 - `association.html` : présentation de l’association, de ses objectifs, de son histoire et de son rôle dans la filière.
 - `contact.html` : page contact et formulaire avec champ entreprise conditionnel.
 - `adherer.html` : formulaire de demande d’adhésion avec pièces jointes.
+- `filiere.html` : la filière oléagineuse (activités, chaîne de valeur, enjeux, perspectives).
+- `actions.html` : actions et plaidoyer (structuration, qualité, lutte contre les pratiques illicites).
+- `publications.html` : publications et documents téléchargeables.
+- `pages.css` : styles partagés des pages institutionnelles.
+- `docs/conformite-cahier-des-charges.md` : comparaison du site avec le cahier des charges de l’ASROC.
 - `assets/` : fichiers logo fournis séparément.
 - `design/asroc-flyer.svg` : visuel flyer.
 - `source/` : maquette HTML complète et prototype du slider.
@@ -22,5 +27,5 @@ Le formulaire envoie les messages à `support@asroc-cm.org` via FormSubmit. Le d
 
 Le formulaire d’adhésion transmet les dossiers à `support@asroc-cm.org` via FormSubmit. Les pièces jointes sont limitées à 10 Mo au total.
 
-- `communication.html` : espace Communication avec communiqués, publications, agenda et médiathèque.
+- `communication.html` : actualités et communiqués, agenda et médiathèque.
 - `navigation.css` : règle partagée de menu fixe à inclure sur les nouvelles pages avec `<link rel="stylesheet" href="/navigation.css">`.
